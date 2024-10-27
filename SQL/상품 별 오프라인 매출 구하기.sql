@@ -5,5 +5,5 @@ GROUP BY P.PRODUCT_CODE
 ORDER BY SALES DESC, PRODUCT_CODE ASC;
 
 
-// Programmers Join 문제 풀이
-// 상품 별 오프라인 매출 구하기 
+# Programmers Join 문제 풀이
+# 상품 별 오프라인 매출 구하기 
